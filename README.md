@@ -49,6 +49,9 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
+ALL required criteria has been met and app is working 
+able to add and delete text
+
 
 
 
